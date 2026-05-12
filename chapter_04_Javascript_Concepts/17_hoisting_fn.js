@@ -10,7 +10,5 @@ getUserStatus();
 
 
 
-
-
 // Note: var is function-scoped, so status is hoisted to
 // the top of getUserStatus(), NOT the global scope.
