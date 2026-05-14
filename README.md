@@ -21,4 +21,11 @@ Deep dive into JavaScript variables and scope:
 - **Hoisting**: How JavaScript hoists variables and function declarations
 - **Functions**: Function declarations, expressions, and scope behavior
 
+### chapter_05_literals.js
+JavaScript literals and primitive values:
+- **Literals**: Understanding different types of literals
+- **null vs undefined**: Key differences and usage
+- **String Literals**: Single quotes, double quotes, and template literals
+- **Template Literals**: Using backticks for string interpolation and multi-line strings
+
 
