@@ -28,4 +28,15 @@ JavaScript literals and primitive values:
 - **String Literals**: Single quotes, double quotes, and template literals
 - **Template Literals**: Using backticks for string interpolation and multi-line strings
 
+### chapter_06_Operator
+JavaScript operators and operations:
+- **Arithmetic Operators**: +, -, *, /, %, **
+- **Comparison Operators**: ==, ===, !=, !==, <, >, <=, >=
+- **Logical Operators**: &&, ||, !
+- **String Concatenation**: Combining strings with + operator
+- **Ternary Operator**: Conditional shorthand (? :)
+- **Type Operator**: typeof for checking data types
+- **Increment/Decrement**: ++, --
+- **Null Coalescing**: ?? operator
+
 
