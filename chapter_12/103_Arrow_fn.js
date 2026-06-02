@@ -15,3 +15,20 @@ console.log(DoubleIt(2))
 
 const printit=name =>console.log("Hello "+ name)
 printit("Noddy")
+
+const add= (a,b) =>  a+b;
+
+function say() {console.log("HI")}
+
+const message=() => "Hello";
+
+//return value 
+const message2=()=>'HI';
+
+const greetMessage = name =>{
+    const message="HI+"+name;
+    return message;
+
+
+
+}
